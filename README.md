@@ -6,4 +6,4 @@ Filename extensions: :.r.rdata.rhistory.rds.rda;</br>
 First appeared: August 1993; 30 years ago</br>
 License: GNU GPL v2</br>
 Paradigms: Multi-paradigm: procedural, object-oriented, functional, reflective, imperative, array</br>
-Stable release: 4.3.2 / 31 October 2023; 3 months ago
+Stable release: 4.3.2 / 31 October 2023; 
